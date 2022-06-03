@@ -4,7 +4,7 @@ A Movie Search website for getting information about any Movie and web-series.
 
 # About this project: 🙌
 
-* It is an indiviadual project carried out by me with the help of OMDB Movie Api.
+* It is an individual project carried out by me with the help of OMDB Movie Api.
 
 * Also implemented debouncing so that there will be less API calls.
 
